@@ -13,7 +13,7 @@ from pyrogram import *
 from Mix import *
 
 
-@ky.ubot("mix", sudo=True)
+@ky.ubot("argus", sudo=True)
 async def _(c: nlx, m):
     uputt = await m.reply("**Hai... Perkenalkan Saya Adalah Argus-Userbot**")
     asyncio.sleep(3)
