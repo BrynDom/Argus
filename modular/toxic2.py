@@ -55,7 +55,7 @@ async def _(c: nlx, m):
     await asyncio.sleep(1.8)
     await puki.edit("**MUKA LU AJA KAYA ASPAL JALANAN**")
     await asyncio.sleep(1.8)
-    await puki.edit("**EHHH SANGE NYA MAU DAPAT YANG CANTIK**")
+    await puki.edit("**EHHH GILIRAN SANGE MAUNYA DAPAT YANG CANTIK**")
     await asyncio.sleep(1.8)
     await puki.edit("**HAHAHAHA**")
 
@@ -84,7 +84,7 @@ async def _(c: nlx, m):
     await asyncio.sleep(1.8)
     await kon.edit("**KONTOL LU AJA MASIH BENGKOK**")
     await asyncio.sleep(1.8)
-    await kon.edit("**EHHH SANGE NYA MAU DAPAT YANG CANTIK**")
+    await kon.edit("**EHHH PAS SANGE MAUNYA DAPAT YANG CANTIK**")
     await asyncio.sleep(1.8)
     await kon.edit("**HAHAHAHA**")
 
