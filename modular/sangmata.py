@@ -1,6 +1,6 @@
 ################################################################
 """
- Mix-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
+Argus-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
  
  @ CREDIT : NAN-DEV || Gojo_Satoru
 """
@@ -28,7 +28,7 @@ async def _(c: nlx, m):
         return await m.reply(cgr("sangmat_1").format(em.gagal))
     if puki in DEVS:
         return await m.reply(
-            f"{em.gagal} <b>DILARANG KERAS MENGGUNAKAN FITUR INI KEPADA SEORANG DEV MIX-USERBOT!</b>"
+            f"{em.gagal} <b>DILARANG KERAS MENGGUNAKAN FITUR INI KEPADA SEORANG DEV ARGUS-USERBOT!</b>"
         )
     try:
         argu = (await c.get_users(puki)).id
