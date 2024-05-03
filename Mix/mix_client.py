@@ -40,7 +40,7 @@ class Userbot(Client):
             api_id=api_id,
             api_hash=api_hash,
             session_string=session,
-            device_model="Mix-Userbot",
+            device_model="Argus-Userbot",
             ipv6=False,
             **kwargs,
         )
