@@ -1,6 +1,5 @@
-# Copyright (C) 2021 Kyy - Userbot
-# Credit by kyy
-# Recode by @AyiinXd
+# Copyright (C) 2021
+# Credit 
 
 
 import asyncio
