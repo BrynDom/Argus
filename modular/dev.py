@@ -1,6 +1,6 @@
 ################################################################
 """
- Mix-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
+Argus-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
  
  @ CREDIT : NAN-DEV
 """
@@ -82,7 +82,7 @@ async def _(c, m):
         text=True,
     )
 
-    char = "Mix-Userbot#" if os.getuid() == 0 else "Mix-Userbot"
+    char = "Argus-Userbot#" if os.getuid() == 0 else "Argus-Userbot"
     text = f"{char} <code>{cmd_text}</code>\n\n"
 
     try:
