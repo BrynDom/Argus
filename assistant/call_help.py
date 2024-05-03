@@ -1,6 +1,6 @@
 ################################################################
 """
- Mix-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
+Argus-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
  
  @ CREDIT : NAN-DEV
  
@@ -124,13 +124,13 @@ async def _(c, cq):
 
 @ky.callback(("^suprot"))
 async def _(c, cq):
-    txt = cgr("supot")
+    txt = cgr("suprot")
     kbt = ikb(
         {
-            "Support 1": f"https://t.me/kynansupport",
-            "Support 2": f"https://t.me/gokilsupport",
-            "Channel 1": f"https://t.me/kontenfilm",
-            "Channel 2": f"https://t.me/SquirtInYourPussy",
+            "Support 1": f"https://t.me/TeamAllbots",
+            "Support 2": f"https://t.me/Joinajadeh",
+            "Channel 1": f"https://t.me/JooxSupport",
+            "Channel 2": f"https://t.me/caritemanmutualan_id",
             "Stats": "stats_mix",
         }
     )
@@ -225,7 +225,7 @@ async def _(c, cq):
         else:
             try:
                 await cq.edit_message_text(
-                    text=text + f"\n<b>© Mix-Userbot - @KynanSupport</b>",
+                    text=text + f"\n<b>© Argus-Userbot - @TeamAllbots</b>",
                     reply_markup=button,
                     disable_web_page_preview=True,
                 )
@@ -527,7 +527,7 @@ def cb_tespeed():
 @ky.callback("^gasbalap")
 async def _(c, cq):
     if cq.from_user.id != nlx.me.id:
-        return await cq.answer("LU SIAPA BANGSAT!! MAEN KLIK-KLIK BAE BAJINGAN.", True)
+        return await cq.answer("LU SIAPA BANGSAT!! MAEN KLIK-KLIK AJE BAJINGAN.", True)
     kb = ikb({f"{cgr('ttup')}": "cls_hlp"})
     await cq.edit_message_text(text="**Processing...**", reply_markup=kb)
     loop = asyncio.get_running_loop()
