@@ -1,12 +1,10 @@
-# Ayiin - Userbot
-# Copyright (C) 2022-2023 @AyiinXd
+# Copyright (C) 2022-2023
 #
 # This file is a part of < https://github.com/AyiinXd/Ayiin-Userbot >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/AyiinXd/Ayiin-Userbot/blob/main/LICENSE/>.
 #
 # FROM Ayiin-Userbot <https://github.com/AyiinXd/Ayiin-Userbot>
-# t.me/AyiinXdSupport & t.me/AyiinSupport
 
 import asyncio
 
@@ -97,7 +95,7 @@ async def _(c: nlx, m):
     await asyncio.sleep(1.8)
     await uputt.edit("**spam bot mulu**")
     await asyncio.sleep(1.8)
-    await uputt.edit("**baru pande bikin userbot ya?? xixixi**")
+    await uputt.edit("**baru main userbot ya?? xixixi**")
     await asyncio.sleep(1.8)
     await uputt.edit("**pantes NORAK**")
 
