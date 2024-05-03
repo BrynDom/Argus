@@ -7,7 +7,7 @@
         "Userbot"
     ],
     "repository": "https://github.com/BrynDom/Argus-Bot",
-    "success_url": "https://t.me/arlozayden",
+    "success_url": "https://t.me/scriptcorrupted",
     "stack": "container",
     "env": {
         "api_id": {
