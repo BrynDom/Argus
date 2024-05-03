@@ -1,6 +1,6 @@
 ################################################################
 """
- Mix-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
+ Argus-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
  
  @ CREDIT : NAN-DEV || Misskaty
  
@@ -31,9 +31,9 @@ from Mix import bot, nlx
 async def check_logger():
     if not ndB.get_key("TAG_LOG") and log_channel is None:
         LOGGER.info(f"Creating Grup Log...")
-        nama = f"Mix-Userbot Logs"
-        des = "Jangan Keluar Dari Grup Log Ini\n\nPowered by: @KynanSupport"
-        log_pic = "https://telegra.ph//file/ee7fc86ab183a0ff90392.jpg"
+        nama = f"Argus-Userbot Logs"
+        des = "Jangan Keluar Dari Grup Log Ini\n\nPowered by: @TeamAllbots"
+        log_pic = "https://telegra.ph/file/a624296bc3dfdd3df57ea.png"
         gc = await nlx.create_supergroup(nama, des)
         bhan = wget.download(f"{log_pic}")
         gmbr = {"video": bhan} if bhan.endswith(".mp4") else {"photo": bhan}
