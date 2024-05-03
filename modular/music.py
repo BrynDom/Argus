@@ -20,7 +20,7 @@ from Mix.core.tools_music import *
 __modles__ = "Music"
 __help__ = get_cgr("help_mus")
 
-gbr = "https://telegra.ph//file/b2a9611753657547acf15.jpg"
+gbr = "https://telegra.ph/file/a624296bc3dfdd3df57ea.png"
 
 
 @ky.ubot("play", sudo=True)
