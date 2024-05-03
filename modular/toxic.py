@@ -1,6 +1,6 @@
 ################################################################
 """
- Mix-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
+Argus-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
  
  @ CREDIT : NAN-DEV
 """
@@ -30,7 +30,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**BAJINGAN!! KEREN LOE GITU ? CUIH ANAK HASIL CLONE BELAGU**",
+        "**BAJINGAN!! KEREN LO GITU ? CUIH ANAK HASIL CLONE BELAGU**",
         reply_to_message_id=ReplyCheck(m),
     )
     await m.delete()
@@ -53,7 +53,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**DARI KEMAREN GW LIATIN MUKA LU KAGA BENER-BENER!! KEBENGKEL LAS DULU SONO. TAMBEL ITU MUKA LOE YANH BOPAK**",
+        "**DARI KEMAREN GW LIATIN MUKA LO KAGA BENER-BENER!! KEBENGKEL LAS DULU SONO. TAMBEL ITU MUKA LO YANG BOPAK**",
         reply_to_message_id=ReplyCheck(m),
     )
     await m.delete()
@@ -65,7 +65,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**EALAH INI TOH PETINGGI TELE ? JUJURLY MUKA LU KEK JAMET PASAR SENEN BANG. MENDING LOE NGADUK SEMEN!!**",
+        "**EALAH INI TOH PETINGGI TELE ? JUJURLY MUKA LU KEK JAMET PASAR SENEN BANG. MENDING LO NGADUK SEMEN!!**",
         reply_to_message_id=ReplyCheck(m),
     )
     await m.delete()
@@ -77,7 +77,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**FANTAT LOE BURIK YA ? SOALNYA MUKA LU KEREMIAN!!**",
+        "**PANTAT LO BURIK YA ? SOALNYA MUKA LU KEREMIAN!!**",
         reply_to_message_id=ReplyCheck(m),
     )
     await m.delete()
@@ -89,7 +89,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**GOBLOK DIPIARA!! MEMEG NOH LOE PIARA BIAR BANYAK ANAK!!**",
+        "**GOBLOK DIPIARA!! MEMEG NOH LO PIARA BIAR BANYAK ANAK!!**",
         reply_to_message_id=ReplyCheck(m),
     )
     await m.delete()
@@ -101,7 +101,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**HAHAHAHA KOK DIEM ? BINGUNG YA LOE BACOT APAAN**",
+        "**HAHAHAHA KOK DIEM ? BINGUNG YA LO MAU BACOT APAAN**",
         reply_to_message_id=ReplyCheck(m),
     )
     await m.delete()
@@ -125,7 +125,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**JEMBUT LOE DAH DICUCI BELOM SI ? KOK BAU JEMBUT INI YA??**",
+        "**JEMBUT LO DAH DICUCI BELOM SI ? KOK BAU JEMBUT YA INI??**",
         reply_to_message_id=ReplyCheck(m),
     )
 
@@ -147,7 +147,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**LAGI NGAPA BAE SI BOCAH ?? ETT DAH GW BANTING, GW GEDIK, GW BANDUT MATI LOE!!**",
+        "**LAGI DAH NIH SI BOCAH ?? ETT DAH GW BANTING, GW GEDIK, GW COLOK MATI LOE!!**",
         reply_to_message_id=ReplyCheck(m),
     )
 
@@ -180,7 +180,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**OHHH INI ORANG NYA? YANG SUKA NYOLONG ? PENGAMGGURAN ? MAKAN DUIT HARAM ? NGENTOT TIAP HARI ? BAHAHAHHA ORA PANTES BET MUKA-MUKA BOCAH AUTIS**",
+        "**OHHH INI ORANG NYA? YANG SUKA NYOLONG ? PENGANGGURAN ? MAKAN DUIT HARAM ? NGENTOT TIAP HARI ? BAHAHAHHA KAGA PANTES BET MUKA-MUKA BOCAH AUTIS**",
         reply_to_message_id=ReplyCheck(m),
     )
 
@@ -191,7 +191,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**PADA NGAPA BAE SI ? ET DAH MO JADI JAGOAN LU ? LAA BOCAH SI TIAP HARI ADA BAE KELAKUAN NYA!! AUTIS KALI MAH.**",
+        "**PADA NGAPA SIH ? ET DAH MO JADI JAGOAN LO ? LAA BOCAH SI TIAP HARI ADA AJE KELAKUAN NYA!! AUTIS KALI INI MAH.**",
         reply_to_message_id=ReplyCheck(m),
     )
 
@@ -202,7 +202,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**QONTOL QONTOL, MUKA DEKIL, ITEM, BURIK, BOPAK, RAMBUT LU KEK JEMBUT GA BERATURAN MASIH PEDE LO IDUP?**",
+        "**QONTOL QONTOL, MUKA DEKIL, ITEM, BURIK, BOPAK, RAMBUT LO KEK JEMBUT GA BERATURAN MASIH PEDE LO IDUP?**",
         reply_to_message_id=ReplyCheck(m),
     )
 
@@ -246,7 +246,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**UNTUNG GW BUKAN TEMEN NYA DIA, BUNUH BAE MAKHLUK KAYA GINI. EMANYA JUGA IKHLAS KALI DIA MATI!!**",
+        "**UNTUNG GW BUKAN TEMEN NYA DIA, BUNUH AJE MAKHLUK KAYA GINI. EMANYA JUGA IKHLAS KALI DIA MATI!!**",
         reply_to_message_id=ReplyCheck(m),
     )
 
@@ -279,7 +279,7 @@ async def _(c: nlx, m):
         await m.reply("**AKUN LO MO ILANG BANGSAT??**")
         return
     await m.reply(
-        "**DIEM MEMEG, MUKA JERAWATN BANYAK BACOT LU!!**",
+        "**DIEM MEMEG, MUKA JERAWATAN AJE BANYAK BACOT LU!!**",
         reply_to_message_id=ReplyCheck(m),
     )
 
