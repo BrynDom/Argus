@@ -23,7 +23,7 @@
             "required": true
         },
         "mongo_uri": {
-            "description": "Silakan isi Mongo Db/Mongo Url . Jika Build Redis Gagal . Cara ambil nya ketik #mongo di @kynansupport.",
+            "description": "Silakan isi Mongo Db/Mongo Url .",
             "required": true
         },
         "db_name": {
@@ -31,11 +31,11 @@
             "required": true
         },
         "heroku_api": {
-            "description": "Isi Coy Jan Dikosongin.",
+            "description": "Isi Jgn Dikosongin.",
             "required": true
         },
         "heroku_app_name": {
-            "description": "Isi Coy Jan Dikosongin",
+            "description": "Isi Jgn Dikosongin",
             "required": true
         }
     },
