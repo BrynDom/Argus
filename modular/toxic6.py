@@ -1,12 +1,10 @@
-# Ayiin - Userbot
-# Copyright (C) 2022-2023 @AyiinXd
+# Copyright (C) 2022-2023 
 #
 # This file is a part of < https://github.com/AyiinXd/Ayiin-Userbot >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/AyiinXd/Ayiin-Userbot/blob/main/LICENSE/>.
 #
 # FROM Ayiin-Userbot <https://github.com/AyiinXd/Ayiin-Userbot>
-# t.me/AyiinXdSupport & t.me/AyiinSupport
 
 import asyncio
 
@@ -17,18 +15,18 @@ from Mix import *
 
 @ky.ubot("mix", sudo=True)
 async def _(c: nlx, m):
-    uputt = await m.reply("**Hai... Perkenalkan Saya Adalah Mix-Userbot**")
+    uputt = await m.reply("**Hai... Perkenalkan Saya Adalah Argus-Userbot**")
     asyncio.sleep(3)
     await uputt.edit("**Userbot base on Pyrogram**")
     asyncio.sleep(2)
-    await uputt.edit("**Part Of @KynanSupport... Salam Kenal yaaa ><**")
+    await uputt.edit("**Part Of @TeamAllBots... Salam Kenal yaaa ><**")
     asyncio.sleep(3)
     await uputt.edit(
-        "**Repository [Mix-Userbot](https://github.com/naya1503/Mix-Userbot)**"
+        "**Repository [Argus-Userbot](https://github.com/BrynDom/Argus-Bot)**"
     )
 
 
-# Create by myself @AyiinXd
+# Create by myself
 
 
 @ky.ubot("sayang", sudo=True)
@@ -38,7 +36,7 @@ async def _(c: nlx, m):
     await xx.edit("**Aku Sayang Kamu Mwaahh** 😘❤")
 
 
-# Create by myself @AyiinXd
+# Create by myself
 
 
 @ky.ubot("semangat", sudo=True)
@@ -52,7 +50,7 @@ async def _(c: nlx, m):
     await uputt.edit("**Dan Bersyukur...**")
 
 
-# Create by myself @AyiinXd
+# Create by myself
 
 
 @ky.ubot("mengeluh", sudo=True)
@@ -66,4 +64,4 @@ async def _(c: nlx, m):
     await uputt.edit("**Dan Putus Asa...**")
 
 
-# Create by myself @AyiinXd
+# Create by myself
