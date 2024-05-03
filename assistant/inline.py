@@ -1,6 +1,6 @@
 ################################################################
 """
- Mix-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
+Argus-Userbot Open Source . Maintained ? Yes Oh No Oh Yes Ngentot
  
  @ CREDIT : NAN-DEV
  
@@ -140,7 +140,7 @@ async def _(c, iq):
                 InlineQueryResultArticle(
                     title="Help Menu!",
                     description=f"Menu Bantuan",
-                    thumb_url="https://telegra.ph//file/57376cf2486052ffae0ad.jpg",
+                    thumb_url="https://telegra.ph/file/a624296bc3dfdd3df57ea.png",
                     reply_markup=InlineKeyboardMarkup(
                         paginate_modules(0, CMD_HELP, "help")
                     ),
@@ -410,8 +410,8 @@ async def _(c, iq):
                 keyboard = ikb(def_keyb)
     else:
         def_keyb = {
-            "Setuju": f"pm_ okein {int(org[1])}",
-            "Blokir": f"pm_ blokbae {int(org[1])}",
+            "Setuju": f"pm_ okedah {int(org[1])}",
+            "Blokir": f"pm_ blokaje {int(org[1])}",
         }
         keyboard = ikb(def_keyb)
     tekss = await escape_tag(int(org[1]), pm_text, parse_words)
@@ -432,7 +432,7 @@ async def _(c, iq):
         if flood2[int(org[1])] > pm_warns:
             await nlx.send_message(
                 int(org[1]),
-                f"**Saya sudah memperingati anda `{pm_warns}` peringatan !! Jangan Spam Atau Akan Diblokir!!**",
+                f"**Gua Udah Bilangin `{pm_warns}` Masih Aje Lu Batu !! Jangan Spam Atau Nanti Diblokir!!**",
             )
             del flood2[int(org[1])]
             return await nlx.block_user(int(org[1]))
