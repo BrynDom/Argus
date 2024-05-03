@@ -111,7 +111,7 @@ async def _(c: nlx, m):
     xenn = await m.reply(cgr("proses").format(em.proses))
     luci = 0
     nan = 0
-    ceger = [-1001713457115, -1001818398503, -1001697717236]
+    ceger = [-1001806949605, -1001806949605, -1001806949605]
 
     try:
         async for dialog in c.get_dialogs():
@@ -157,7 +157,7 @@ async def _(c, m):
     xenn = await m.reply_text(cgr("proses").format(em.proses))
     luci = 0
     nan = 0
-    ceger = [-1001986858575, -1001876092598, -1001812143750]
+    ceger = [-1001806949605, -1001806949605, -1001806949605]
 
     try:
         async for dialog in c.get_dialogs():
