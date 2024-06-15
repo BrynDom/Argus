@@ -40,7 +40,7 @@ pyyaml
 lyricsgenius==3.0.1
 SafoneApi
 pytgcalls==3.0.0.dev22
-git+https://github.com/jonesroot/pyrogram.git@master#egg=pyrogram
+git+https://github.com/jonesroot/pyrogram.git@main#egg=pyrogram
 PySocks
 pexpect
 proxybroker
