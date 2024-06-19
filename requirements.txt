@@ -1,5 +1,5 @@
 thegokil==1.0.0.dev1
-maling==2.3.3
+maling==2.3.7
 aiofiles
 aiohttp
 beautifulsoup4
@@ -40,9 +40,11 @@ pyyaml
 lyricsgenius==3.0.1
 SafoneApi
 pytgcalls==3.0.0.dev22
-pyrogram
+git+https://github.com/jonesroot/pyrogram.git@main#egg=pyrogram
 PySocks
 pexpect
 proxybroker
 pyquery
 aiogram
+assemblyai
+removebg
